@@ -23,6 +23,7 @@ Vamos a realizar una primera entrega que hable sobre ti. Para ello:
   -  Una foto tuya:
   -  
     ![mi foto](/Sobre%20Mi/Ali%20El%20Mansouri%20Bachaou.jpg)
+
   
   -  Un apartado de observaciones donde hables de las expectativas de este módulo:
     Este modulo nos ayudara a tener un buen desaroolo y crear un buen entorno y poder 
@@ -30,3 +31,6 @@ Vamos a realizar una primera entrega que hable sobre ti. Para ello:
 
 
 
+
+
+[def]: /Sobre%20Mi/Ali%20El%20Mansouri%20Bachaou.jpg
